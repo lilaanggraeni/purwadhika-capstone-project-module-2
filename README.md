@@ -3,6 +3,29 @@
 ## Deskripsi Proyek
 Proyek ini adalah aplikasi berbasis CLI (Command Line Interface) untuk mengelola inventaris barang Fast Moving Consumer Goods (FMCG). Aplikasi menyediakan fungsionalitas CRUD (Create, Read, Update, Delete) untuk pengelolaan data barang.
 
+## Stakeholder
+1. **Manajer Gudang**
+   - Bertanggung jawab atas pengelolaan inventaris
+   - Membutuhkan akses penuh untuk monitoring stok
+   - Membutuhkan laporan terkini tentang status barang
+
+2. **Staff Gudang**
+   - Melakukan input data barang baru
+   - Mengupdate informasi stok
+   - Melakukan pencarian dan filter data
+
+3. **Supplier**
+   - Memerlukan informasi tentang stok barang yang mereka supply
+   - Membutuhkan data untuk perencanaan pengiriman
+
+4. **Tim Keuangan**
+   - Membutuhkan informasi harga dan nilai inventaris
+   - Menggunakan data untuk perhitungan aset
+
+5. **Tim Marketing**
+   - Membutuhkan informasi tentang ketersediaan produk
+   - Menggunakan data untuk perencanaan kampanye
+
 ## Fitur
 - **Melihat Data Barang**:
   - Lihat semua barang
