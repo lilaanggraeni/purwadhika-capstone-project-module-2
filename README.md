@@ -1,7 +1,21 @@
 # Sistem Manajemen Stok Barang FMCG
 
-## Deskripsi Proyek
-Proyek ini adalah aplikasi berbasis CLI (Command Line Interface) untuk mengelola inventaris barang Fast Moving Consumer Goods (FMCG). Aplikasi menyediakan fungsionalitas CRUD (Create, Read, Update, Delete) untuk pengelolaan data barang.
+## Deskripsi Program
+Program ini adalah aplikasi berbasis CLI (Command Line Interface) untuk mengelola inventaris barang Fast Moving Consumer Goods (FMCG). Program ini menyediakan fungsionalitas CRUD (Create, Read, Update, Delete) untuk pengelolaan data barang.
+
+## Urgensi Program
+1. Efisiensi Operasional:
+   - Mengurangi kesalahan pencatatan manual
+   - Mempercepat proses pencarian dan update stok
+   - Memudahkan tracking lokasi barang
+2. Kontrol Inventori:
+   - Mencegah stockout dan overstock
+   - Memantau pergerakan barang dengan mudah
+   - Mengurangi risiko kehilangan barang
+3. Pengambilan Keputusan:
+   - Data real-time untuk keputusan pembelian
+   - Analisis kategori produk yang efektif
+   - Optimalisasi ruang penyimpanan
 
 ## Stakeholder
 1. **Manajer Gudang**
@@ -14,15 +28,11 @@ Proyek ini adalah aplikasi berbasis CLI (Command Line Interface) untuk mengelola
    - Mengupdate informasi stok
    - Melakukan pencarian dan filter data
 
-3. **Supplier**
-   - Memerlukan informasi tentang stok barang yang mereka supply
-   - Membutuhkan data untuk perencanaan pengiriman
-
-4. **Tim Keuangan**
+3. **Tim Keuangan**
    - Membutuhkan informasi harga dan nilai inventaris
    - Menggunakan data untuk perhitungan aset
 
-5. **Tim Marketing**
+4. **Tim Marketing**
    - Membutuhkan informasi tentang ketersediaan produk
    - Menggunakan data untuk perencanaan kampanye
 
@@ -72,6 +82,3 @@ Program ini sudah dilengkapi dengan 20 data barang FMCG sebagai contoh, mencakup
 - Minuman
 - Makanan Instan
 - Bumbu Masak
-
-## Capstone Project - Module 2
-Proyek ini adalah bagian dari Capstone Project untuk Module 2 kursus Purwadhika.
